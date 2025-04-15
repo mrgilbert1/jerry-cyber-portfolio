@@ -36,17 +36,19 @@
 ---
 
 ## 🎓 **Certifications**
-| Certification | Issuer | Link |
-|--------------|--------|------|
-| Security+ | CompTIA | ✔️ |
-| Network+ | CompTIA | ✔️ |
-| CySA+ | CompTIA | ✔️ |
-| Azure Fundamentals | Microsoft | ✔️ |
-| Associate Cloud Engineer | Google | ✔️ |
-| Splunk Power User | Splunk | ✔️ |
-| GFACT | GIAC | ✔️ |
-| GSEC | GIAC | ✔️ |
-| GCIH | GIAC | ✔️ |
+
+| Certification             | Issuer     | Verification Link                                                                 |
+|--------------------------|------------|------------------------------------------------------------------------------------|
+| Security+                | CompTIA    | [✔️ Verify](https://www.credly.com/earner/earned/badge/30da1a61-f410-4271-87cc-b853f43a6557) |
+| Network+                 | CompTIA    | [✔️ Verify](https://www.credly.com/earner/earned/badge/2815f6de-5650-4673-a385-71d488d20cde) |
+| CySA+                    | CompTIA    | [✔️ Verify](https://www.credly.com/earner/earned/badge/40da8820-634b-41b5-bbc7-ce986aab6a0f) |
+| Azure Fundamentals       | Microsoft  | [✔️ Verify](https://learn.microsoft.com/en-us/users/jerrygilbert-6215/credentials/7c01bb11cff31de7) |
+| Associate Cloud Engineer | Google     | [✔️ Verify](https://www.credly.com/earner/earned/badge/cfd76354-394a-4176-a5a6-0fbfee7f070e) |
+| Splunk Power User        | Splunk     | [✔️ Verify](https://www.credly.com/earner/earned/badge/940b14fe-6258-461c-b163-b9b967f24010) |
+| GFACT                    | GIAC       | ✔️ *(Link coming soon)*                                                            |
+| GSEC                     | GIAC       | ✔️ *(Link coming soon)*                                                            |
+| GCIH                     | GIAC       | ✔️ *(Link coming soon)*                                                            |
+
 
 ---
 

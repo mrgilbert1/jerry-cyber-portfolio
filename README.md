@@ -91,4 +91,4 @@
 ## 🌐 **Connect with Me**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gilbert1)  
 - 📧 Email: Mr.Gilbert1@gmail.com  
-- 💡 [GitHub Projects](https://github.com/Github-goat) *(until I upload more under my own handle)*  
+- 💡 [GitHub Projects] *(until I upload more under my own handle)*  
